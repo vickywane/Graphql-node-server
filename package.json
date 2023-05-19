@@ -27,7 +27,7 @@
     "graphql": "^14.0.2",
     "graphql-tools": "^4.0.3",
     "mongoose": "^5.3.14",
-    "pg": "^7.7.1",
+    "pg": "^7.18.2",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.42.0"
   }
